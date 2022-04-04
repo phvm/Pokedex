@@ -1,4 +1,4 @@
-# <h1 align="center">Pokedex</h1>
+<h1 align="center">Pokedex</h1>
 <p align="center">💻Uma pokedex para rápido acesso a informações dos pokemons</p>
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
